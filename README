@@ -1,0 +1,19 @@
+Other shit you should know about the OS:
+
+- terminal font is: "hack"
+- System font: System San Francisco Display Regular
+- Remember to use --no-startup-id on all exec'd things in your i3 config
+- For the xorg.conf, change the graphics driver name shit (i have it bookmarked on chrome)
+- Packages to install:
+	- i3blocks
+	- rofi
+	- screenfetch
+	- i3-gaps
+	- URxvt
+	- GTK arc-theme
+	- Firefox arc-theme
+	- Paper icon theme (put in .icons folder)
+	- lxappearance
+	- vim
+	- git
+
