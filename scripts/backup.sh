@@ -21,4 +21,4 @@ cp -rf $home/scripts $backup
 printf "\n\t.bashrc"
 cp $home/.bashrc $backup
 
-printf "Finished.\n\n"
+printf "\nFinished.\n\n"
