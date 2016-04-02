@@ -21,7 +21,4 @@ cp -rf $home/scripts $backup
 printf "\n\t.bashrc"
 cp $home/.bashrc $backup
 
-printf "\n\nLogging...\n"
-echo $(date) --- Successful backup >> $backup/backup_log
-
 printf "Finished.\n\n"
